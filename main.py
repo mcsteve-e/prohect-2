@@ -1,4 +1,11 @@
-#--------------------------------------This is main.py -------------------------------------
+'''
+	Author:		McSteve Ezikeoha
+	Title:		Linked list database
+	Date:		March 9, 2018
+	Description:	You will write a command-line Python program keeps track of students in two different dimensions. 
+			The purpose of this is to learn how to use linked lists and write code that manipulate them.
+'''
+
 import sys
 import os
 import traceback
